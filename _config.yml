@@ -28,8 +28,11 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
+<<<<<<< HEAD
   - category.md
   - data_page.md
+=======
+>>>>>>> parent of 3019abe (updata)
   - about.md
 
 # Set to `true` to show excerpts on the homepage.
