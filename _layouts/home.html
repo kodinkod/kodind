@@ -16,7 +16,7 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
-  posts.size
+  {{posts.size}}
   {%- if posts.size > 0 -%}
 
     {%- if page.list_title -%}
