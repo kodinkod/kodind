@@ -12,6 +12,7 @@ description: >
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
+paginate: 5
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
@@ -27,12 +28,12 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - about.md
-  - library.md
   - category.md
+  - data_page.md
+  - about.md
 
 # Set to `true` to show excerpts on the homepage.
-show_excerpts: false
+show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:

@@ -1,0 +1,20 @@
+---
+layout: base
+title: Data science
+permalink: /Data_sc/
+---
+
+<h3>Data science</h3>
+
+{% for postscat in site.categories %}
+{% assign cat = postscat | first %}
+<h4 id="{{ cat | slugify }}"> - {{ cat }}</h4>
+<ul>
+	{% for post in site.categories.[cat] %}
+        {% if "Data" in post.category.include?  "Data" %}
+            <a href="{{post.url}}">{{post.title}}</a>
+            {{post.date | date: "%d-%m-%Y"}}
+        {% endif %}
+	{% endfor %}
+</ul>
+{% endfor %}
