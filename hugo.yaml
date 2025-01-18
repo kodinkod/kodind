@@ -35,7 +35,7 @@ menu:
       url: "/categories/"
       weight: 2
     - name: "Архив"
-      url: "/archive/"
+      url: "/archives/"
       weight: 3
     - name: "Поиск"
       url: "/search/"

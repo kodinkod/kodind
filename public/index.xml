@@ -68,12 +68,5 @@
 &lt;li&gt;titanic dataset &lt;a href=&#34;https://github.com/kodinkod/data_analasys/blob/main/titanic/pipline.ipynb&#34;&gt;notebook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
-    <item>
-      <title>Архив</title>
-      <link>https://kodinkod.github.io/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kodinkod.github.io/archives/</guid>
-      <description>archive</description>
-    </item>
   </channel>
 </rss>
