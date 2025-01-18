@@ -2,6 +2,8 @@
 date: '2025-01-18T18:59:26+03:00'
 draft: false
 title: 'About'
+categories: ["Программирование", "Hugo"]
+tags: ["tags", "Hugtagso"]
 ---
 
 ### Hi there, I'm Denis Kodin - intern RnD CV👋
