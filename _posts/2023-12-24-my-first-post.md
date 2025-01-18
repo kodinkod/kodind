@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Research agents"
-category: Agents LLM Library
-excerpt: "Это специально заданное краткое содержание для поста."
+category: [Agents, LLM, Library]
 ---
-и это тоже 
-
 
 
 
