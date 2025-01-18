@@ -21,11 +21,3 @@ echo "Коммитим изменения в $(pwd)"
 git add .
 git commit -m "$msg"
 git push origin
-
-cd ..
-echo ""
-echo ""
-echo "Коммитим изменения в pwd $(pwd)"
-git add .
-git commit -m "$msg"
-git push origin
