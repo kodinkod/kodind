@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NLP on Denis Kodin</title>
-    <link>https://kodinkod.github.io/categories/nlp/</link>
+    <link>http://localhost:1313/categories/nlp/</link>
     <description>Recent content in NLP on Denis Kodin</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jan 2025 19:59:26 +0300</lastBuildDate>
-    <atom:link href="https://kodinkod.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best nlp tools</title>
-      <link>https://kodinkod.github.io/posts/2025-01-18-nlp-tools/</link>
+      <link>http://localhost:1313/posts/2025-01-18-nlp-tools/</link>
       <pubDate>Sat, 18 Jan 2025 19:59:26 +0300</pubDate>
-      <guid>https://kodinkod.github.io/posts/2025-01-18-nlp-tools/</guid>
+      <guid>http://localhost:1313/posts/2025-01-18-nlp-tools/</guid>
       <description>Useful tools, papers, code about NLP.</description>
     </item>
   </channel>
