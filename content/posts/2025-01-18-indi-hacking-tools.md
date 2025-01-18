@@ -4,6 +4,7 @@ draft: false
 title: "Indi hacking tools"
 categories: ["hacking", "dev"]
 tags: ["Library"]
+summary: "Useful tools, papers, code about NLP."
 ShowToc: false
 ---
 

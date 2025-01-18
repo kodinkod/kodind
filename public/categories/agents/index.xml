@@ -13,12 +13,7 @@
       <link>https://kodinkod.github.io/posts/2025-01-18-ai-agnets/</link>
       <pubDate>Sat, 18 Jan 2025 18:52:26 +0300</pubDate>
       <guid>https://kodinkod.github.io/posts/2025-01-18-ai-agnets/</guid>
-      <description>&lt;h2 id=&#34;about-agents&#34;&gt;About agents&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.anthropic.com/research/building-effective-agents&#34;&gt;Building effective agents&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://huggingface.co/blog/open-source-llms-as-agents&#34;&gt;Open-source LLMs as LangChain Agents&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://habr.com/ru/articles/864646/&#34;&gt;ИИ-агенты: от теории к практике&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>Useful tools, papers, code about LLM Agents.</description>
     </item>
   </channel>
 </rss>

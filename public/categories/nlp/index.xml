@@ -13,10 +13,7 @@
       <link>https://kodinkod.github.io/posts/2025-01-18-nlp-tools/</link>
       <pubDate>Sat, 18 Jan 2025 19:59:26 +0300</pubDate>
       <guid>https://kodinkod.github.io/posts/2025-01-18-nlp-tools/</guid>
-      <description>&lt;h2 id=&#34;documents&#34;&gt;Documents&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/DS4SD/docling&#34;&gt;Docling&lt;/a&gt; -  parses documents and exports them to the desired format with ease and speed.&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>Useful tools, papers, code about NLP.</description>
     </item>
   </channel>
 </rss>

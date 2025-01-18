@@ -2,6 +2,7 @@
 date: '2025-01-18T20:30:52+03:00'
 draft: false
 title: 'Diffusion Models'
+summary: "Useful tools, papers, code about Diffusion models"
 categories: ["Diffusion models", "Gen AI", "CV"]
 tags: ["Library"]
 ShowToc: false
