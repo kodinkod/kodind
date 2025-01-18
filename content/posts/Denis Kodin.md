@@ -1,12 +1,10 @@
 ---
-date: '2025-01-18T18:59:26+03:00'
+date: '2025-01-18T16:59:26+03:00'
 draft: false
-title: 'About'
-categories: ["Программирование", "Hugo"]
-tags: ["tags", "Hugtagso"]
+title: 'Denis Kodin'
 ---
 
-### Hi there, I'm Denis Kodin - intern RnD CV👋
+### Hi there, I'm Denis Kodin👋
 interests: live
 
 ### My experience 💡

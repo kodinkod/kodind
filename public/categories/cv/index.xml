@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CV on Denis Kodin</title>
+    <link>https://kodinkod.github.io/categories/cv/</link>
+    <description>Recent content in CV on Denis Kodin</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2025 20:30:52 +0300</lastBuildDate>
+    <atom:link href="https://kodinkod.github.io/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diffusion Models</title>
+      <link>https://kodinkod.github.io/posts/diffusion_lib/</link>
+      <pubDate>Sat, 18 Jan 2025 20:30:52 +0300</pubDate>
+      <guid>https://kodinkod.github.io/posts/diffusion_lib/</guid>
+      <description>&lt;h2 id=&#34;base&#34;&gt;Base&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lilianweng.github.io/posts/2021-07-11-diffusion-models/&#34;&gt;What are Diffusion Models?
+Lil&amp;rsquo;Log&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aman.ai/primers/ai/diffusion-models/&#34;&gt;Distilled AI | Diffusion Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://readmedium.com/score-based-generative-models-bfe88808dc81&#34;&gt;Score-based generative models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;arena&#34;&gt;Arena&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://imgsys.org&#34;&gt;imgsys&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;image-generation&#34;&gt;Image Generation&lt;/h2&gt;
+&lt;h2 id=&#34;video-generation&#34;&gt;Video Generation&lt;/h2&gt;
+&lt;h2 id=&#34;music-generation&#34;&gt;Music Generation&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

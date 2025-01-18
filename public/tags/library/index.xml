@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Library on Denis Kodin</title>
+    <link>https://kodinkod.github.io/tags/library/</link>
+    <description>Recent content in Library on Denis Kodin</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2025 20:30:52 +0300</lastBuildDate>
+    <atom:link href="https://kodinkod.github.io/tags/library/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diffusion Models</title>
+      <link>https://kodinkod.github.io/posts/diffusion_lib/</link>
+      <pubDate>Sat, 18 Jan 2025 20:30:52 +0300</pubDate>
+      <guid>https://kodinkod.github.io/posts/diffusion_lib/</guid>
+      <description>&lt;h2 id=&#34;base&#34;&gt;Base&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lilianweng.github.io/posts/2021-07-11-diffusion-models/&#34;&gt;What are Diffusion Models?
+Lil&amp;rsquo;Log&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aman.ai/primers/ai/diffusion-models/&#34;&gt;Distilled AI | Diffusion Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://readmedium.com/score-based-generative-models-bfe88808dc81&#34;&gt;Score-based generative models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;arena&#34;&gt;Arena&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://imgsys.org&#34;&gt;imgsys&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;image-generation&#34;&gt;Image Generation&lt;/h2&gt;
+&lt;h2 id=&#34;video-generation&#34;&gt;Video Generation&lt;/h2&gt;
+&lt;h2 id=&#34;music-generation&#34;&gt;Music Generation&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Best nlp tools</title>
+      <link>https://kodinkod.github.io/posts/2025-01-18-nlp-tools/</link>
+      <pubDate>Sat, 18 Jan 2025 19:59:26 +0300</pubDate>
+      <guid>https://kodinkod.github.io/posts/2025-01-18-nlp-tools/</guid>
+      <description>&lt;h2 id=&#34;documents&#34;&gt;Documents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/DS4SD/docling&#34;&gt;Docling&lt;/a&gt; -  parses documents and exports them to the desired format with ease and speed.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Indi hacking tools</title>
+      <link>https://kodinkod.github.io/posts/2025-01-18-indi-hacking-tools/</link>
+      <pubDate>Sat, 18 Jan 2025 19:59:26 +0300</pubDate>
+      <guid>https://kodinkod.github.io/posts/2025-01-18-indi-hacking-tools/</guid>
+      <description>&lt;h2 id=&#34;tg-bots&#34;&gt;tg bots&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://timeweb.cloud/tutorials/servers/kak-sozdat-telegram-bota-na-oblachnom-servere?ysclid=m257shvhd6854905456&#34;&gt;Как создать телеграм-бота на облачном сервере
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Research agents</title>
+      <link>https://kodinkod.github.io/posts/2025-01-18-ai-agnets/</link>
+      <pubDate>Sat, 18 Jan 2025 18:52:26 +0300</pubDate>
+      <guid>https://kodinkod.github.io/posts/2025-01-18-ai-agnets/</guid>
+      <description>&lt;h2 id=&#34;about-agents&#34;&gt;About agents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.anthropic.com/research/building-effective-agents&#34;&gt;Building effective agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/blog/open-source-llms-as-agents&#34;&gt;Open-source LLMs as LangChain Agents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://habr.com/ru/articles/864646/&#34;&gt;ИИ-агенты: от теории к практике&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
