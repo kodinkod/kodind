@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kodinkod.github.io/categories/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cv/</loc>
+    <loc>https://kodinkod.github.io/categories/cv/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kodinkod.github.io/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/diffusion-models/</loc>
+    <loc>https://kodinkod.github.io/categories/diffusion-models/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/diffusion_lib/</loc>
+    <loc>https://kodinkod.github.io/posts/diffusion_lib/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/gen-ai/</loc>
+    <loc>https://kodinkod.github.io/categories/gen-ai/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/library/</loc>
+    <loc>https://kodinkod.github.io/tags/library/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://kodinkod.github.io/posts/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kodinkod.github.io/tags/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-01-18-nlp-tools/</loc>
+    <loc>https://kodinkod.github.io/categories/dev/</loc>
     <lastmod>2025-01-18T19:59:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/dev/</loc>
+    <loc>https://kodinkod.github.io/categories/hacking/</loc>
     <lastmod>2025-01-18T19:59:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/hacking/</loc>
+    <loc>https://kodinkod.github.io/posts/2025-01-18-indi-hacking-tools/</loc>
     <lastmod>2025-01-18T19:59:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-01-18-indi-hacking-tools/</loc>
+    <loc>https://kodinkod.github.io/categories/nlp/</loc>
     <lastmod>2025-01-18T19:59:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/nlp/</loc>
+    <loc>https://kodinkod.github.io/posts/2025-01-18-nlp-tools/</loc>
     <lastmod>2025-01-18T19:59:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/agents/</loc>
+    <loc>https://kodinkod.github.io/categories/agents/</loc>
     <lastmod>2025-01-18T18:52:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/llm/</loc>
+    <loc>https://kodinkod.github.io/categories/llm/</loc>
     <lastmod>2025-01-18T18:52:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-01-18-ai-agnets/</loc>
+    <loc>https://kodinkod.github.io/posts/2025-01-18-ai-agnets/</loc>
     <lastmod>2025-01-18T18:52:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/denis-kodin/</loc>
+    <loc>https://kodinkod.github.io/posts/denis-kodin/</loc>
     <lastmod>2025-01-18T16:59:26+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://kodinkod.github.io/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://kodinkod.github.io/search/</loc>
   </url>
 </urlset>
