@@ -16,7 +16,8 @@ Lil'Log](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
 
 ## Arena 
-- [imgsys](https://imgsys.org)
+- [imgsys](https://imgsys.org) - a generative image model arena by
+rankings. (fal). 
 
 
 ## Image Generation 
@@ -24,3 +25,5 @@ Lil'Log](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 ## Video Generation 
 
 ## Music Generation 
+
+## On device
