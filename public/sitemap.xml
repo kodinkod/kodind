@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kodinkod.github.io/categories/</loc>
-    <lastmod>2025-01-18T20:30:52+03:00</lastmod>
+    <loc>https://kodinkod.github.io/categories/ai/</loc>
+    <lastmod>2025-01-21T23:43:46+03:00</lastmod>
   </url><url>
-    <loc>https://kodinkod.github.io/categories/cv/</loc>
-    <lastmod>2025-01-18T20:30:52+03:00</lastmod>
+    <loc>https://kodinkod.github.io/posts/ai-general/</loc>
+    <lastmod>2025-01-21T23:43:46+03:00</lastmod>
+  </url><url>
+    <loc>https://kodinkod.github.io/categories/</loc>
+    <lastmod>2025-01-21T23:43:46+03:00</lastmod>
   </url><url>
     <loc>https://kodinkod.github.io/</loc>
+    <lastmod>2025-01-21T23:43:46+03:00</lastmod>
+  </url><url>
+    <loc>https://kodinkod.github.io/tags/library/</loc>
+    <lastmod>2025-01-21T23:43:46+03:00</lastmod>
+  </url><url>
+    <loc>https://kodinkod.github.io/posts/</loc>
+    <lastmod>2025-01-21T23:43:46+03:00</lastmod>
+  </url><url>
+    <loc>https://kodinkod.github.io/tags/</loc>
+    <lastmod>2025-01-21T23:43:46+03:00</lastmod>
+  </url><url>
+    <loc>https://kodinkod.github.io/categories/cv/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
     <loc>https://kodinkod.github.io/categories/diffusion-models/</loc>
@@ -18,15 +33,6 @@
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
     <loc>https://kodinkod.github.io/categories/gen-ai/</loc>
-    <lastmod>2025-01-18T20:30:52+03:00</lastmod>
-  </url><url>
-    <loc>https://kodinkod.github.io/tags/library/</loc>
-    <lastmod>2025-01-18T20:30:52+03:00</lastmod>
-  </url><url>
-    <loc>https://kodinkod.github.io/posts/</loc>
-    <lastmod>2025-01-18T20:30:52+03:00</lastmod>
-  </url><url>
-    <loc>https://kodinkod.github.io/tags/</loc>
     <lastmod>2025-01-18T20:30:52+03:00</lastmod>
   </url><url>
     <loc>https://kodinkod.github.io/categories/dev/</loc>

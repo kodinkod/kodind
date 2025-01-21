@@ -1,11 +1,8 @@
 ---
 date: '2025-01-18T16:59:26+03:00'
-draft: false
+draft: true
 title: 'Denis Kodin'
 ---
-
-### Hi there, I'm Denis Kodin👋
-interests: live
 
 ### My experience 💡
  - RnD CV, Gen-AI, Diffusion models in T-bank.

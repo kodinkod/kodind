@@ -1,10 +1,17 @@
 baseURL: https://kodinkod.github.io
 languageCode: en-us
-title: Denis Kodin
+title: Kodin
 theme: PaperMod
 
 
 params:
+  env: production
+  title: Kodin
+  description: "Technology library, userful tools, papers, code."
+  keywords: [Blog, library, tools]
+  author: Kodin
+  
+
   ShowShareButtons: true
   showReadingTime: true
   ShowToc: true
@@ -25,7 +32,21 @@ params:
     minMatchCharLength: 0
     limit: 10
     keys: ["title", "permalink", "summary", "content"]
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: | 
+             I created this resource to collect everything that helps me learn new things. There will be `frameworks, articles, code, photos, books, bots, and just plain text`.  I am constantly updating the collection, adding new, relevant and useful resources. 
+             
+             **The purpose of this project goes beyond personal experience.** I am convinced that access to high-quality knowledge can change the world. When everyone can easily understand technology, it will not only accelerate progress, but also protect society from speculation and manipulation using AI technologies.
+             
+             I am sure that you have also encountered similar problems, and may have started to maintain your knowledge base in Notion or obsidian - **welcome to contribute**. Let's make modern knowledge and experience more accessible together.
 
+  socialIcons:
+    - name: github
+      url: "https://github.com/kodinkod/kodinkod.github.io"
+    - name: telegram
+      url: "https://t.me/kodind"
+      
 menu:
   main:
     - name: "Все посты"

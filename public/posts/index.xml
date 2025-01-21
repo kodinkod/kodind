@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Denis Kodin</title>
+    <title>Posts on Kodin</title>
     <link>https://kodinkod.github.io/posts/</link>
-    <description>Recent content in Posts on Denis Kodin</description>
+    <description>Recent content in Posts on Kodin</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jan 2025 20:30:52 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 23:43:46 +0300</lastBuildDate>
     <atom:link href="https://kodinkod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai General</title>
+      <link>https://kodinkod.github.io/posts/ai-general/</link>
+      <pubDate>Tue, 21 Jan 2025 23:43:46 +0300</pubDate>
+      <guid>https://kodinkod.github.io/posts/ai-general/</guid>
+      <description>is all you need.</description>
+    </item>
     <item>
       <title>Diffusion Models</title>
       <link>https://kodinkod.github.io/posts/diffusion_lib/</link>
@@ -41,9 +48,7 @@
       <link>https://kodinkod.github.io/posts/denis-kodin/</link>
       <pubDate>Sat, 18 Jan 2025 16:59:26 +0300</pubDate>
       <guid>https://kodinkod.github.io/posts/denis-kodin/</guid>
-      <description>&lt;h3 id=&#34;hi-there-im-denis-kodin&#34;&gt;Hi there, I&amp;rsquo;m Denis Kodin👋&lt;/h3&gt;
-&lt;p&gt;interests: live&lt;/p&gt;
-&lt;h3 id=&#34;my-experience-&#34;&gt;My experience 💡&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;my-experience-&#34;&gt;My experience 💡&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;RnD CV, Gen-AI, Diffusion models in T-bank.&lt;/li&gt;
 &lt;li&gt;RnD CV in AgroTech startup.&lt;/li&gt;
