@@ -48,16 +48,16 @@ params:
       
 menu:
   main:
-    - name: "Все посты"
+    - name: "Posts"
       url: "/posts/"
       weight: 1
-    - name: "Категории"
+    - name: "Categories"
       url: "/categories/"
       weight: 2
-    - name: "Архив"
+    - name: "Archive"
       url: "/archives/"
       weight: 3
-    - name: "Поиск"
+    - name: "Search"
       url: "/search/"
       weight: 4
 
