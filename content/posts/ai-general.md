@@ -17,24 +17,6 @@ summary: "is all you need."
 
 - January 21, 2025, [Announcing The Stargate Project](https://openai.com/index/announcing-the-stargate-project/) - company which intends to invest $500 billion over the next four years building new AI infrastructure for OpenAI in the United States.
 
+---------
 
-# The Scaling Hypothesis
-
-The **[The Scaling Hypothesis](https://gwern.net/scaling-hypothesis)** suggests that increasing the scale of neural networks (more parameters, data, and compute) improves their performance and ability to solve complex tasks. This idea is supported by models like GPT-3, which demonstrate meta-learning (few-shot learning) and generalization without complex architectures. The hypothesis implies that intelligence can emerge from simple algorithms applied at massive scales.
-
-
-| **Aspect**               | **Description**                                                                                     | **Example/Evidence**                                                                 |
-|--------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Core Idea**            | Scaling up (parameters, data, compute) improves performance, even with simple architectures.       | GPT-3: 175B parameters, trained on internet text, demonstrates few-shot learning.   |
-| **Meta-Learning**        | Models like GPT-3 can learn new tasks from few examples, showing generalization capabilities.       | GPT-3 solves arithmetic and translation tasks without specialized training.         |
-| **Empirical Laws**       | Performance follows power laws: improvements depend on scale of parameters, data, and compute.     | OpenAI’s scaling laws: loss decreases with more parameters and data.                |
-| **Criticism**            | Some argue scaling alone won’t lead to true AI, as models lack long-term memory or understanding.   | François Chollet (DeepMind) highlights limitations in data and architecture.        |
-| **Future**               | If true, human-level AI may require millions of times more compute, achievable by the 2030s.       | Gwern’s prediction: AGI possible by 2038 with current compute growth rates.         |
-| **Applications**         | Scaling enables powerful language models for science, business, and government, but risks misuse.  | GPT-3 can automate tasks or generate propaganda.                                    |
-
----
-
-
-# ANI, AGI, ASI
-
-to-be..
+- The **[The Scaling Hypothesis](https://gwern.net/scaling-hypothesis)** suggests that increasing the scale of neural networks (more parameters, data, and compute) improves their performance and ability to solve complex tasks. This idea is supported by models like GPT-3, which demonstrate meta-learning (few-shot learning) and generalization without complex architectures. The hypothesis implies that intelligence can emerge from simple algorithms applied at massive scales.
