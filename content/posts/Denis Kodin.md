@@ -1,7 +1,7 @@
 ---
 date: '2025-01-18T16:59:26+03:00'
 draft: true
-title: 'Denis Kodin'
+title: 'whoami'
 ---
 
 ### My experience 💡

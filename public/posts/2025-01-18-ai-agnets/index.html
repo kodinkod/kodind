@@ -100,8 +100,8 @@
   "keywords": [
     "Library"
   ],
-  "articleBody": "Agentic programs are the gateway to the outside world for LLMs, code, people. We can identify several levels of agency:\nAgency Level Description How that’s called Example Pattern ☆☆☆ LLM output has no impact on program flow Simple processor process_llm_output(llm_response) ★☆☆ LLM output determines basic control flow Router if llm_decision(): path_a() else: path_b() ★★☆ LLM output determines function execution Tool call run_function(llm_chosen_tool, llm_chosen_args) ★★★ LLM output controls iteration and program continuation Multi-step Agent while llm_should_continue(): execute_next_step() ★★★ One agentic workflow can start another agentic workflow Multi-Agent if llm_trigger(): execute_agent() Table from https://github.com/huggingface/smolagents\n⛔ When to use agents Advantages (+) of Using Agents Disadvantages (-) of Using Agents Flexibility: Agents can adapt to complex and uncertain tasks that don’t fit predefined workflows. Complexity: Agents are harder to develop and debug compared to deterministic systems. Autonomy: Agents can make independent decisions based on data and context. Unpredictability: Agents may make unexpected or incorrect decisions due to ambiguous data. Scalability: Agents can handle a wide range of tasks by leveraging various tools (APIs, databases, etc.). Cost: Using agents can be more expensive due to the need for powerful computational resources. Real-world applicability: Agents excel at tasks requiring analysis of multiple factors and context. Risk of errors: Agents may make mistakes, especially with incomplete or conflicting data. Integration with external systems: Agents can interact with APIs, databases, and other tools. Control challenges: It’s harder to control and explain agent behavior in complex scenarios. Suitable for complex tasks: Agents are useful when tasks require analyzing multiple variables. Overkill for simple tasks: Agents may add unnecessary complexity for straightforward tasks. About agents Building effective agents Open-source LLMs as LangChain Agents ИИ-агенты: от теории к практике Library smolagents smolagents is a library that enables you to run powerful agents in a few lines of code.\n",
-  "wordCount" : "298",
+  "articleBody": "About agents Building effective agents Open-source LLMs as LangChain Agents Chip Huyen, Agents - a great tutorial about agents. Jan 7, 2025. Agents Computer-Using Agent - introduced a research preview of Operator⁠(opens in a new window), an agent that can go to the web to perform tasks for you.penAI, January 23, 2025. Library smolagents smolagents is a library that enables you to run powerful agents in a few lines of code.\n",
+  "wordCount" : "71",
   "inLanguage": "en",
   "datePublished": "2025-01-18T18:52:26+03:00",
   "dateModified": "2025-01-18T18:52:26+03:00",
@@ -196,94 +196,19 @@
     <h1 class="post-title entry-hint-parent">
       LLM Agents tools
     </h1>
-    <div class="post-meta"><span title='2025-01-18 18:52:26 +0300 MSK'>January 18, 2025</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Kodin
+    <div class="post-meta"><span title='2025-01-18 18:52:26 +0300 MSK'>January 18, 2025</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Kodin
 
 </div>
   </header> 
-  <div class="post-content"><p><strong>Agentic programs</strong> are the gateway to the outside world for LLMs, code, <del>people</del>. We can identify several levels of agency:</p>
-<table>
-  <thead>
-      <tr>
-          <th>Agency Level</th>
-          <th>Description</th>
-          <th>How that&rsquo;s called</th>
-          <th>Example Pattern</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>☆☆☆</td>
-          <td>LLM output has no impact on program flow</td>
-          <td>Simple processor</td>
-          <td><code>process_llm_output(llm_response)</code></td>
-      </tr>
-      <tr>
-          <td>★☆☆</td>
-          <td>LLM output determines basic control flow</td>
-          <td>Router</td>
-          <td><code>if llm_decision(): path_a() else: path_b()</code></td>
-      </tr>
-      <tr>
-          <td>★★☆</td>
-          <td>LLM output determines function execution</td>
-          <td>Tool call</td>
-          <td><code>run_function(llm_chosen_tool, llm_chosen_args)</code></td>
-      </tr>
-      <tr>
-          <td>★★★</td>
-          <td>LLM output controls iteration and program continuation</td>
-          <td>Multi-step Agent</td>
-          <td><code>while llm_should_continue(): execute_next_step()</code></td>
-      </tr>
-      <tr>
-          <td>★★★</td>
-          <td>One agentic workflow can start another agentic workflow</td>
-          <td>Multi-Agent</td>
-          <td><code>if llm_trigger(): execute_agent()</code></td>
-      </tr>
-  </tbody>
-</table>
-<p>Table from <a href="https://github.com/huggingface/smolagents">https://github.com/huggingface/smolagents</a></p>
-<h2 id="-when-to-use-agents">⛔ When to use agents<a hidden class="anchor" aria-hidden="true" href="#-when-to-use-agents">#</a></h2>
-<table>
-  <thead>
-      <tr>
-          <th><strong>Advantages (+) of Using Agents</strong></th>
-          <th><strong>Disadvantages (-) of Using Agents</strong></th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><strong>Flexibility</strong>: Agents can adapt to complex and uncertain tasks that don’t fit predefined workflows.</td>
-          <td><strong>Complexity</strong>: Agents are harder to develop and debug compared to deterministic systems.</td>
-      </tr>
-      <tr>
-          <td><strong>Autonomy</strong>: Agents can make independent decisions based on data and context.</td>
-          <td><strong>Unpredictability</strong>: Agents may make unexpected or incorrect decisions due to ambiguous data.</td>
-      </tr>
-      <tr>
-          <td><strong>Scalability</strong>: Agents can handle a wide range of tasks by leveraging various tools (APIs, databases, etc.).</td>
-          <td><strong>Cost</strong>: Using agents can be more expensive due to the need for powerful computational resources.</td>
-      </tr>
-      <tr>
-          <td><strong>Real-world applicability</strong>: Agents excel at tasks requiring analysis of multiple factors and context.</td>
-          <td><strong>Risk of errors</strong>: Agents may make mistakes, especially with incomplete or conflicting data.</td>
-      </tr>
-      <tr>
-          <td><strong>Integration with external systems</strong>: Agents can interact with APIs, databases, and other tools.</td>
-          <td><strong>Control challenges</strong>: It’s harder to control and explain agent behavior in complex scenarios.</td>
-      </tr>
-      <tr>
-          <td><strong>Suitable for complex tasks</strong>: Agents are useful when tasks require analyzing multiple variables.</td>
-          <td><strong>Overkill for simple tasks</strong>: Agents may add unnecessary complexity for straightforward tasks.</td>
-      </tr>
-  </tbody>
-</table>
-<h2 id="about-agents">About agents<a hidden class="anchor" aria-hidden="true" href="#about-agents">#</a></h2>
+  <div class="post-content"><h2 id="about-agents">About agents<a hidden class="anchor" aria-hidden="true" href="#about-agents">#</a></h2>
 <ul>
 <li><a href="https://www.anthropic.com/research/building-effective-agents">Building effective agents</a></li>
 <li><a href="https://huggingface.co/blog/open-source-llms-as-agents">Open-source LLMs as LangChain Agents</a></li>
-<li><a href="https://habr.com/ru/articles/864646/">ИИ-агенты: от теории к практике</a></li>
+<li><a href="https://huyenchip.com/2025/01/07/agents.html">Chip Huyen, Agents</a> - a great tutorial about agents. Jan 7, 2025.</li>
+</ul>
+<h2 id="agents">Agents<a hidden class="anchor" aria-hidden="true" href="#agents">#</a></h2>
+<ul>
+<li><a href="https://openai.com/index/computer-using-agent/">Computer-Using Agent</a> - introduced a research preview of Operator⁠(opens in a new window), an agent that can go to the web to perform tasks for you.penAI, January 23, 2025.</li>
 </ul>
 <h2 id="library">Library<a hidden class="anchor" aria-hidden="true" href="#library">#</a></h2>
 <h3 id="smolagents">smolagents<a hidden class="anchor" aria-hidden="true" href="#smolagents">#</a></h3>
@@ -305,7 +230,7 @@
   <a class="next" href="https://kodinkod.github.io/posts/denis-kodin/">
     <span class="title">Next »</span>
     <br>
-    <span>Denis Kodin</span>
+    <span>whoami</span>
   </a>
 </nav>
 
